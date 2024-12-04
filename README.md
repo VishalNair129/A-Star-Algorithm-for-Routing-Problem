@@ -20,6 +20,8 @@ The implementation is divided into three files:
 3. **Map_Plot.py:** Visualizes the solution found by the A*-algorithm.
 
 ---
+### Data Source
+The CSV files used for map data can be obtained from OpenStreetMap. OpenStreetMap provides detailed and customizable maps, which can be exported in various formats, including CSV.
 
 ## File Descriptions
 
